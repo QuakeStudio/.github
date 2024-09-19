@@ -1,6 +1,6 @@
 <div align="center">
 
-![QuakeFragment logo](/extensions/QuakeStudio/assets/QuakeStudio.png "QuakeStudio Logo") 
+![QuakeFragment logo](/assets/QuakeStudio.png "QuakeStudio Logo") 
 
 # Quake Studio
 
