@@ -6,4 +6,4 @@
 
 </div>
 
-Quake Studio is created specifically to make rendering and WebGL related extensions for [Gandi IDE](https://getgandi.com/).
+Quake Studio is created to make rendering and WebGL related extensions for [Gandi IDE](https://getgandi.com/) and [Turbowarp](https://turbowarp.org/).
